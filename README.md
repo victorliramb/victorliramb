@@ -1,8 +1,4 @@
-### Olá! Eu me chamo Victor Lira. Sou Estudante de programação e acadêmico de Ciências da Computação 
-
-- 🔭 Atualmente em busca de estágio.
-- 🌱 Atualmente estou aprendendo Análise de Dados com Python & Desenvolvimento Web com HTML, CSS e JavaScript.
-- 👯 Procuro colaborar com projetos que envolvam programaçao e T.I.
+### Victor Lira Ciência da Computação | Desenvolvimento de Software | Back-end
 
 <div align="center">
   <a href="https://github.com/victorliramb">
