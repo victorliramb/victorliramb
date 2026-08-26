@@ -1,4 +1,4 @@
-### Victor Lira Ciência da Computação | Desenvolvimento de Software | Back-end
+### Computer Science | Software Development | Backend | AI
 
 <div align="center">
   <a href="https://github.com/victorliramb">
